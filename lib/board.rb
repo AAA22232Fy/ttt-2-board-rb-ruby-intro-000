@@ -1,3 +1,3 @@
 # Define the variable board below.
-puts board = row
+board = "board"
 puts row = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
